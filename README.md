@@ -55,3 +55,15 @@ The user will benefit from having a basic insight into a company that offers the
 + I want the site to show the motto of "quality over quantity" in terms of the information that is on display
 + I want to encourage users to go to our social media pages which will help boost the profile of the company
 + I want the site to be responsive so users on any platform can successfully navigate the site
+
+### **Strategy**
+
+**Site Goals**
+
+This particular project is to design and create a static website that is done mainly through HTML and CSS.
+
+The main goal for the website is to get potential customers to sign up to one or more of the services by getting them to contact the company. This will in turn not only provide an essential service to the user but also generate revenue for the business. 
+
+The site from the off will need to be appealing in design so that it stands out and grabs the users attention which in turn will make them feel like they want to check out the rest of the site. Through making the site fully responsive and with a single page scroll navigation the site aims to be easily accessible no matter which platform the user is viewing the site on. 
+
+The sites goal of "quality over quantity" means that the user gets just the right enough of information to digest, and with pleasantly pleasing images of happy dogs/puppies throughout the site, this will hopefully give the user a warm and confident feeling that they could potentially see their own dog/puppy being in the care of one of the trained staff members.
