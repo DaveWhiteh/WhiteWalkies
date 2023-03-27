@@ -32,7 +32,7 @@ The user will benefit from having a basic insight into a company that offers the
 ## User Experiences (UX)
 
 ### **User Stories**
----
+#
 **As a potential customer:**
 
 + At first glance I want to be engaged enough to happily navigate through the rest of the site
@@ -57,7 +57,7 @@ The user will benefit from having a basic insight into a company that offers the
 + I want the site to be responsive so users on any platform can successfully navigate the site
 
 ### **Strategy**
----
+#
 **Site Goals**
 
 This particular project is to design and create a static website that is done mainly through HTML and CSS.
@@ -69,7 +69,7 @@ The site from the off will need to be appealing in design so that it stands out 
 The sites goal of "quality over quantity" means that the user gets just the right enough of information to digest, and with pleasantly pleasing images of happy dogs/puppies throughout the site, this will hopefully give the user a warm and confident feeling that they could potentially see their own dog/puppy being in the care of one of the trained staff members.
 
 ### **Scope**
----
+#
 The main features that will be implemented into the website will be included in six sections that will be navigated via a single scrollable page.
 
 The design of the site should be friendly adopting a warm feeling throughout but also be eye catching enough as to stand out from the crowd in terms of other websites within the same industry. A colour palette was chosen and fonts selected at this point to help create this design.
@@ -107,7 +107,7 @@ The footer should stand out like the nav bar and will contain all the social med
 A thankyou page is essential for site branding. The user will be re-located after they submit their message in the contact section. The page will contain a simple, short message that shows the appreciation from the site owner to the user for getting in touch. It will contain both the header and footer and also a link that gets them back to the homepage.
 
 ### **Structure**
----
+#
 The structure of the site consists of a single scrollable page rather than multiple separate pages. This should give a more accessible experience for all and by doing so will adopt a more mobile-first design which is how the majority of people view websites these days. This approach also provides less steps for the user which will hopefully minimise the risk of the user losing interest.
 
 The single page will be made up of the Header and Footer as well six main sections, Homepage, About Us, Pet Services, Prices, Gallery and Contact. Each section will be clearly identified using design elements. They will have a bold heading that will be clear and concise, with text that is informative and intuitive, both of which will conform to the accessibility standards. Images where necessary will be relevant to that part of the section. We also want to offer the user the opportunity to get in touch at every section on the page when navigating through, so there will be a button that will allow the user to go straight to the contact section.
@@ -117,3 +117,25 @@ The header will be designed in a way that captivates the user with the use of go
 In the middle part of the single scrollable page there will be an image which will act as a breather for the user that will be a fixed background image. On the top and the bottom of this image there will be a banner that will stand out and catch the users eye. The top banner will have some icons that will immediately appeal to the user with some clearly stated text about the company. The bottom banner will be short and provide the social media links for the user to click on.
 
 The footer will use the same colour combination as the header and will contain the social media links and relevant business information, opening hours, address and telephone numbers. These will have icons above them to capture the user's attention and to indicate the information that is displayed.
+
+### **Skeleton**
+#
+The design tool figma was used to create the wireframes which are an initial outlay of the layout of the site. There were three frames created. Each frame representing a different device and each frame measured in pixels. This was done to show the responsiveness of the layout on different devices.
+
+Desktop (1920 x 1080)<br>
+Tablet (1024 x 1366)<br>
+Mobile (393 x 852)
+
+<details>
+<summary>Wireframes</summary>
+<img src="assets/images/readme/wireframes.jpg" width="1000">
+</details>
+
+The wireframes were then built on by creating an actual fully designed site using the colour palette, fonts and images that were selected when initially scoping out the site. Planning and being as prepared as possible was the key reason for generating the full designs using figma.
+
+Having the design already laid out with the bulk of the main elements, like which colours work well together, which elements were coloured what, which font to use for what text, which images to use and where they are placed, having all these factors planned out makes the coding of the site easier to focus on and more straightforward.
+
+<details>
+<summary>Design Layout</summary>
+<img src="assets/images/readme/design_layout.jpg" width="1000">
+</details>
