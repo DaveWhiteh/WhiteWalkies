@@ -1,0 +1,51 @@
+/* --------------------------------------------------------------------------------------- Text/Padding/Margin */
+
+body {
+    margin: 0;
+    padding: 0;
+    padding-top: 5rem;
+    font-size: 100%;
+    font-family: 'Lora', serif;
+    font-weight: 400;
+}
+
+/* --------------------------------------------------------------------------------------- Background Colors */
+
+.bg-color-black {
+    background-color: #000000;
+}
+
+/* --------------------------------------------------------------------------------------- Navbar */
+
+.navbar {
+    opacity: 95%;
+}
+
+.navbar>.container {
+    align-items: flex-end;
+}
+
+.nav-link {
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    padding-bottom: 0;
+}
+
+.nav-link:hover {
+    color: #CC007A;
+    transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -webkit-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+}
+
+.fa-bars {
+    font-size: 32px;
+}
+
+/* --------------------------------------------------------------------------------------- Icons */
+
+.icon-pink {
+    color: #CC007A;
+}
