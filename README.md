@@ -2,6 +2,8 @@
 
 ![WhiteWalkies Responsive Mock-up]()
 
+---
+
 ## Table of Contents
 
 1. [About](#about)
@@ -19,6 +21,7 @@
 7. [Deployment](#deployment)
 8. [Credits](#credits)
 
+---
 
 ## About
 
@@ -28,11 +31,12 @@ The user will benefit from having a basic insight into a company that offers the
 
 *Click **[here]()** to view the live website.*
 
+---
 
 ## User Experiences (UX)
 
 ### **User Stories**
-#
+
 **As a potential customer:**
 
 + At first glance I want to be engaged enough to happily navigate through the rest of the site
@@ -57,7 +61,7 @@ The user will benefit from having a basic insight into a company that offers the
 + I want the site to be responsive so users on any platform can successfully navigate the site
 
 ### **Strategy**
-#
+
 **Site Goals**
 
 This particular project is to design and create a static website that is done mainly through HTML and CSS.
@@ -69,7 +73,7 @@ The site from the off will need to be appealing in design so that it stands out 
 The sites goal of "quality over quantity" means that the user gets just the right enough of information to digest, and with pleasantly pleasing images of happy dogs/puppies throughout the site, this will hopefully give the user a warm and confident feeling that they could potentially see their own dog/puppy being in the care of one of the trained staff members.
 
 ### **Scope**
-#
+
 The main features that will be implemented into the website will be included in six sections that will be navigated via a single scrollable page.
 
 The design of the site should be friendly adopting a warm feeling throughout but also be eye catching enough as to stand out from the crowd in terms of other websites within the same industry. A colour palette was chosen and fonts selected at this point to help create this design.
@@ -107,7 +111,7 @@ The footer should stand out like the nav bar and will contain all the social med
 A thankyou page is essential for site branding. The user will be re-located after they submit their message in the contact section. The page will contain a simple, short message that shows the appreciation from the site owner to the user for getting in touch. It will contain both the header and footer and also a link that gets them back to the homepage.
 
 ### **Structure**
-#
+
 The structure of the site consists of a single scrollable page rather than multiple separate pages. This should give a more accessible experience for all and by doing so will adopt a more mobile-first design which is how the majority of people view websites these days. This approach also provides less steps for the user which will hopefully minimise the risk of the user losing interest.
 
 The single page will be made up of the Header and Footer as well six main sections, Homepage, About Us, Pet Services, Prices, Gallery and Contact. Each section will be clearly identified using design elements. They will have a bold heading that will be clear and concise, with text that is informative and intuitive, both of which will conform to the accessibility standards. Images where necessary will be relevant to that part of the section. We also want to offer the user the opportunity to get in touch at every section on the page when navigating through, so there will be a button that will allow the user to go straight to the contact section.
@@ -119,7 +123,7 @@ In the middle part of the single scrollable page there will be an image which wi
 The footer will use the same colour combination as the header and will contain the social media links and relevant business information, opening hours, address and telephone numbers. These will have icons above them to capture the user's attention and to indicate the information that is displayed.
 
 ### **Skeleton**
-#
+
 The design tool figma was used to create the wireframes which are an initial outlay of the layout of the site. There were three frames created. Each frame representing a different device and each frame measured in pixels. This was done to show the responsiveness of the layout on different devices.
 
 Desktop (1920 x 1080)<br>
@@ -139,3 +143,28 @@ Having the design already laid out with the bulk of the main elements, like whic
 <summary>Design Layout</summary>
 <img src="assets/images/readme/design_layout.jpg" width="1000">
 </details>
+
+### **Surface**
+
+**Colour**
+
+The colours within the chosen palette work well together. They were chosen using the site [color-hex.com](https://www.color-hex.com/color-palette/17298). They contain neutral sandy colours, which give a sense of warmth and comfort to the user when scrolling through the main bulk of the sections. The palette then contains the black and pink which are used on parts of the site that require a more commanding presence, that allows them to stand out and keep the user engaged. The pink also portrays the sense of love and fun which are two of the biggest emotions that people think of when they are around there dog/puppy.
+
+![Colour Palette](assets/images/readme/colour-palette.jpg)
+
+Tints and Shades of these colours are used also and are created using the site [maketintsandshade.com](https://maketintsandshades.com/#CC007A,F5D59A,575757).
+
+**Typography**
+
+The font Poppins was chosen for the headers and the text that required more prominence. To find a font that would be used for the main body of the text was done via an online pairing tool called [fontpair.co](https://www.fontpair.co/pairings/poppins-lora). Both these fonts are available at [Google Fonts](https://fonts.google.com/).
+
+**Images**
+
+The images have been chosen carefully and where necessary reflect the description of the text that goes with them. The images are all of dog/puppies and they are all of a happy nature set in different environments, this portrays the variation of walks that they get to experience and that the user can easily relate to. The video has been selected to give the user a more in depth vision of what they can expect when their dog is in the care and supervision one of the trained dog/puppy walkers. All the individual images and video sources can be found in the [credits](#credits) section.
+
+**Icons**
+
+The icons used are all found at Font Awesome. Having icons as the social media links immediately allows the user to easily identify which social media platform is which. The icons on the footer used to identify the opening hours, address and telephone numbers are all easily appealing on the eye for the user.
+
+---
+
