@@ -9,16 +9,63 @@ body {
     font-weight: 400;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+    text-align: justify;
+}
+
+.section-header {
+    font-weight: 700;
+    margin-bottom: 3rem;
+}
+
+.text-bold {
+    font-weight: 600;
+}
+
+/* --------------------------------------------------------------------------------------- Borders/other */
+
+hr {
+    width: 100px;
+    margin: 2rem auto;
+    border-top: 2px solid #CC007A;
+}
+
 /* --------------------------------------------------------------------------------------- Background Colors */
 
 .bg-color-black {
     background-color: #000000;
 }
 
+.bg-color-light-beige {
+    background-color: #fefbf5;
+}
+
 /* --------------------------------------------------------------------------------------- Text Colors */
 
 .text-white {
     color: #FFFFFF;
+}
+
+.text-grey {
+    color: #575757;
+}
+
+/* --------------------------------------------------------------------------------------- Containers */
+
+.container-wrapper {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    scroll-margin-top: 5em;
 }
 
 /* --------------------------------------------------------------------------------------- Buttons */
@@ -171,6 +218,13 @@ body {
     .hero-content {
         position: absolute;
         bottom: 10%;
+    }
+    
+}
+
+@media screen and (min-width: 992px) {
+    p {
+        font-size: 112%;
     }
     
 }
