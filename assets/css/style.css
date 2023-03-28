@@ -15,6 +15,41 @@ body {
     background-color: #000000;
 }
 
+/* --------------------------------------------------------------------------------------- Text Colors */
+
+.text-white {
+    color: #FFFFFF;
+}
+
+/* --------------------------------------------------------------------------------------- Buttons */
+
+.btn--cta {
+	font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.btn--pink {
+    color: #FFFFFF;
+    background-color: #CC007A;
+    box-shadow: 2px 2px 8px #575757;
+}
+
+.btn--pink:hover,
+.btn--pink:active,
+.btn--pink:focus,
+.btn--pink:active:focus {
+    background-color: #B8006E;
+    color: #000000;
+}
+
+/* --------------------------------------------------------------------------------------- Icons */
+
+.icon-pink {
+    color: #CC007A;
+}
+
 /* --------------------------------------------------------------------------------------- Navbar */
 
 .navbar {
@@ -44,8 +79,118 @@ body {
     font-size: 32px;
 }
 
-/* --------------------------------------------------------------------------------------- Icons */
+/* --------------------------------------------------------------------------------------- Hero */
 
-.icon-pink {
-    color: #CC007A;
+.hero-image {
+    height: 85vh;
+    background-image: url('../images/hero.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    position: relative;
+}
+
+.hero-content {
+    position: absolute;
+    bottom: 25%;
+}
+
+.hero-header {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 3rem;
+    padding-bottom: 2rem;
+    line-height: 1.5em;
+    text-shadow: 3px 3px 6px #575757;
+}
+
+/* --------------------------------------------------------------------------------------- Text Animation */
+
+.animation-slide-in-left-line1 {
+    animation-name: slide-in-left;
+    animation-duration: 2s;
+}
+
+@keyframes slide-in-left {
+  from {
+      transform: translateX(-100%);
+      opacity: 0.25;
+  }
+    
+  to {
+      transform: translateX(0%);
+      opacity: 1;
+  }
+}
+
+.animation-slide-in-left-line2 {
+    animation-name: slide-in-left;
+    animation-duration: 4s;
+}
+
+@keyframes slide-in-left {
+  from {
+      transform: translateX(-300%);
+      opacity: 0.25;
+  }
+    
+  to {
+      transform: translateX(0%);
+      opacity: 1;
+  }
+}
+
+.animation-slide-in-left-line3 {
+    animation-name: slide-in-left;
+    animation-duration: 6s;
+}
+
+@keyframes slide-in-left {
+  from {
+      transform: translateX(-400%);
+      opacity: 0.25;
+  }
+    
+  to {
+      transform: translateX(0%);
+      opacity: 1;
+  }
+}
+
+/* --------------------------------------------------------------------------------------- Media Queries */
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .hero-header {
+        font-size: 2.75rem;
+    }
+
+    .hero-content {
+        position: absolute;
+        bottom: 10%;
+    }
+    
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .hero-header {
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 2.75rem;
+    }
+    
+}
+
+@media screen and (max-width: 767px) {
+    .hero-image {
+        height: 65vh;
+    }
+
+    .hero-content {
+        display: none;
+    }
+
 }
