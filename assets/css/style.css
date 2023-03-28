@@ -32,6 +32,10 @@ p {
     font-weight: 600;
 }
 
+.text-medium {
+    font-weight: 500;
+}
+
 /* --------------------------------------------------------------------------------------- Borders/other */
 
 hr {
@@ -52,6 +56,14 @@ hr {
 
 .bg-color-light-beige {
     background-color: #fefbf5;
+}
+
+.bg-color-beige {
+    background-color: #F4ECE1;
+}
+
+.bg-color-dark-beige {
+    background-color: #F5D59A;
 }
 
 /* --------------------------------------------------------------------------------------- Text Colors */
@@ -159,6 +171,47 @@ hr {
     text-shadow: 3px 3px 6px #575757;
 }
 
+/* --------------------------------------------------------------------------------------- Banner */
+
+.banners-image {
+    height: 75vh;
+    background-image: url('../images/banner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    position: relative;
+}
+
+.media-content {
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+.media-text {
+    font-family: 'Poppins';
+    font-size: 1.25rem;
+    line-height: 2rem;
+}
+
+.container-consultation {
+    background-color: rgba(244, 236, 225, 0.8);
+}
+
+
+.media-content a i:hover,
+.media-content a i:active,
+.media-content a i:focus,
+.media-content a i:active:focus {
+    color: #F5D59A !important;
+}
+
 /* --------------------------------------------------------------------------------------- Text Animation */
 
 .animation-slide-in-left-line1 {
@@ -214,18 +267,6 @@ hr {
 
 /* --------------------------------------------------------------------------------------- Media Queries */
 
-@media screen and (min-width: 768px) and (max-width: 991px) {
-    .hero-header {
-        font-size: 2.75rem;
-    }
-
-    .hero-content {
-        position: absolute;
-        bottom: 10%;
-    }
-    
-}
-
 @media screen and (min-width: 992px) {
     p {
         font-size: 112%;
@@ -233,11 +274,17 @@ hr {
     
 }
 
-@media screen and (min-width: 992px) and (max-width: 1199px) {
+@media screen and (min-width: 768px) and (max-width: 1199px) {
     .hero-header {
-        font-family: 'Poppins';
-        font-weight: 700;
         font-size: 2.75rem;
+    }
+    
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .hero-content {
+        position: absolute;
+        bottom: 10%;
     }
     
 }
@@ -249,6 +296,15 @@ hr {
 
     .hero-content {
         display: none;
+    }
+
+    .media-text {
+        font-size: 99%;
+        line-height: 1.5rem;
+    }
+
+    .banners-image {
+        height: 125vh;
     }
 
 }
