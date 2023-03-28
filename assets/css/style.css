@@ -40,6 +40,10 @@ hr {
     border-top: 2px solid #CC007A;
 }
 
+.border-color-white {
+    border-color: #FFFFFF;
+}
+
 /* --------------------------------------------------------------------------------------- Background Colors */
 
 .bg-color-black {
