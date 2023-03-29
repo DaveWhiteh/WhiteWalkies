@@ -277,6 +277,18 @@ hr {
     box-shadow: 4px 4px 6px #575757;
 }
 
+/* --------------------------------------------------------------------------------------- Contact Us */
+
+.form-text {
+    font-family: 'Poppins'    
+}
+
+.googlemap-container,
+.googlemap {
+    width: 100%;
+    height: 100%;
+}
+
 /* --------------------------------------------------------------------------------------- Text Animation */
 
 .animation-slide-in-left-line1 {
