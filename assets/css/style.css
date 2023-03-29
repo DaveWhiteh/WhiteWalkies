@@ -289,6 +289,24 @@ hr {
     height: 100%;
 }
 
+/* --------------------------------------------------------------------------------------- Footer */
+
+.footer-text {
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+.footer-media a i:hover,
+.footer-media a i:active,
+.footer-media a i:focus,
+.footer-media a i:active:focus {
+    color: #F5D59A !important;
+}
+
+.footer-copy {
+    font-size: 80%;
+}
+
 /* --------------------------------------------------------------------------------------- Text Animation */
 
 .animation-slide-in-left-line1 {
@@ -385,13 +403,9 @@ hr {
         height: 750px;
     }
 
-}
-
-@media screen and (max-width: 575px) {
-    .gallery-img {
-        width: 75%;
-        height: 100%;
-        justify-content: center;
+    .googlemap-container,
+    .googlemap {
+        height: 300px;
     }
 
 }
