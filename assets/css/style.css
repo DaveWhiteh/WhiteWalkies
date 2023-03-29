@@ -271,6 +271,12 @@ hr {
     
 }
 
+/* --------------------------------------------------------------------------------------- Gallery */
+
+.container-gallery-video {
+    box-shadow: 4px 4px 6px #575757;
+}
+
 /* --------------------------------------------------------------------------------------- Text Animation */
 
 .animation-slide-in-left-line1 {
@@ -357,13 +363,23 @@ hr {
         display: none;
     }
 
-    .media-text {
-        font-size: 99%;
-        line-height: 1.5rem;
+    .media-text,
+    .prices-banner-text {
+        font-size: 1.15rem;
+        line-height: 2rem;
     }
 
     .banners-image {
-        height: 125vh;
+        height: 750px;
+    }
+
+}
+
+@media screen and (max-width: 575px) {
+    .gallery-img {
+        width: 75%;
+        height: 100%;
+        justify-content: center;
     }
 
 }
