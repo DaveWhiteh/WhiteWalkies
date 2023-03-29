@@ -307,6 +307,28 @@ hr {
     font-size: 80%;
 }
 
+/* --------------------------------------------------------------------------------------- Thank you */
+
+.thankyou-img-container {
+    width: 125px;
+}
+
+.thankyou-img {
+    width: 100%;
+    height: 100%;
+}
+
+.thankyou-link a {
+    color: #000000;
+}
+
+.thankyou-link a:hover,
+.thankyou-link a:active,
+.thankyou-link a:focus,
+.thankyou-link a:active:focus {
+    color: #CC007A;
+}
+
 /* --------------------------------------------------------------------------------------- Text Animation */
 
 .animation-slide-in-left-line1 {
@@ -366,6 +388,17 @@ hr {
     p {
         font-size: 112%;
     }
+    
+}
+
+@media screen and (min-width: 768px) {
+    #footer {
+        position: fixed;
+        width: 100%;
+        max-width: 100%;
+        bottom: 0;
+        margin: 0 auto;
+     }
     
 }
 
