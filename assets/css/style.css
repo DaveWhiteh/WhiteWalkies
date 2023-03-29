@@ -36,6 +36,10 @@ p {
     font-weight: 500;
 }
 
+.text-larger {
+    font-size: 112%;
+}
+
 /* --------------------------------------------------------------------------------------- Borders/other */
 
 hr {
@@ -66,6 +70,10 @@ hr {
     background-color: #F5D59A;
 }
 
+.bg-color-grey {
+    background-color: #575757;
+}
+
 /* --------------------------------------------------------------------------------------- Text Colors */
 
 .text-white {
@@ -74,6 +82,10 @@ hr {
 
 .text-grey {
     color: #575757;
+}
+
+.text-pink {
+    color: #CC007A;
 }
 
 /* --------------------------------------------------------------------------------------- Containers */
@@ -111,6 +123,10 @@ hr {
 
 .icon-pink {
     color: #CC007A;
+}
+
+.icon-dark-beige {
+    color: #F5D59A;
 }
 
 /* --------------------------------------------------------------------------------------- Navbar */
@@ -186,6 +202,10 @@ hr {
     position: relative;
 }
 
+.container-consultation {
+    background-color: rgba(244, 236, 225, 0.8);
+}
+
 .media-content {
     background-color: rgba(0, 0, 0, 0.8);
     position: absolute;
@@ -194,22 +214,61 @@ hr {
     left: 0;
 }
 
+.media-content a i:hover,
+.media-content a i:active,
+.media-content a i:focus,
+.media-content a i:active:focus {
+    color: #F5D59A !important;
+}
+
 .media-text {
     font-family: 'Poppins';
     font-size: 1.25rem;
     line-height: 2rem;
 }
 
-.container-consultation {
-    background-color: rgba(244, 236, 225, 0.8);
+/* --------------------------------------------------------------------------------------- Prices */
+
+.prices-content {
+    height: 100%;
+    box-shadow: 4px 4px 6px #575757;
 }
 
+.card-header:first-child {
+  border-radius: 0;
+}
 
-.media-content a i:hover,
-.media-content a i:active,
-.media-content a i:focus,
-.media-content a i:active:focus {
-    color: #F5D59A !important;
+.prices-header {
+    background-color: #EEEEEE;
+}
+
+.prices-text {
+    font-size: 130%;
+    font-weight: 500;
+}
+
+.prices-small-print {
+    font-size: 0.75rem;
+}
+
+.prices-body {
+    border-radius: 0 0 3px 3px;
+}
+
+.prices-list {
+    color: #575757;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    line-height: 1.75rem;
+    font-weight: 500;
+}
+
+.prices-banner-text {
+    font-family: 'Poppins';
+    font-size: 1.25rem;
+    line-height: 2rem;
+    
 }
 
 /* --------------------------------------------------------------------------------------- Text Animation */
