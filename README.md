@@ -168,3 +168,194 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 
 ---
 
+## Features
+
+### **Navigation Bar**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/navbar-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/navbar-mobile.jpg" width="350">
+</details>
+
++ Features on both the index.html and thankyou.html pages and is fully responsive. It contains a brand logo which links to the homepage. It also has the links Home, About, Pet Services, Prices, Gallery and Contact which are used to navigate through the site sections on the single scroll page layout.
+
++ The navbar is fixed and so will stay at the top of the page when the user scrolls through the site. This allows for easy accessibility should the user require the navbar to jump to any section at anytime whilst scrolling through the site.
+
+### **Hero**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/hero-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/hero-mobile.jpg" width="350">
+</details>
+
++ The hero has a full width fixed image which has text that slides in from the left and a button just below this text that links to the contact section on the page. The image is responsive, targeting the main part of the image when it scales down. Both the text and button are also responsive in size and position as well not appearing at all on smaller screen sizes.
+
++ The user is introduced to the company with a stand out image that really captures the essence of the company and the animated text just adds that extra touch of something special.
+
+### **About Us**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/about-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/about-mobile.jpg" width="350">
+</details>
+
++ The about us section is a simple layout which features the section header, a few paragraphs of text and the button that links to the contact section.
+
++ The user will be given a brief introduction as to who the company are, what they can expect from the company and allow them to go straight to the contact section of the page.
+
+### **Pet Services**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/services-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/services-mobile.jpg" width="350">
+</details>
+
++ This section features firstly the section header followed by two cards, one for each service that the company currently offers. Each card has a relevant image, the service header, a brief paragraph of that service and a button that links to the contact section.
+
++ The users attention will be immediately linked to the images which both give a sense of what that particular service is likely to offer. The text is short but gives the user enough understanding as to what the service is about and the button will allow them to gain more info by navigating straight to the contact section.
+
+### **Banners**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/banners-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/banners-mobile.jpg" width="350">
+</details>
+
++ This part of the site contains a fixed image that has a banner at the top of the section which has three captions. All three captions have an icon, header and text. The banner at the bottom of the section features a single line of text and three social media links for facebook, twitter and instagram.
+
++ This middle part of the site offers the user some quick punchy advertisement about the company with a pleasant background image that gives the user a sense of fun and happiness.
+
+### **Prices**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/prices-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/prices-mobile.jpg" width="350">
+</details>
+
++ This section features the section header to begin with, followed by three cards, a strip of text and again the button that links to the contact section. The three cards each feature the header of the service, the price of the service and then what is included in that service. The strip of text is there to give the user a reminder as to the essential items that we offer.
+
++ The section will give the user the all important costs of the service that the company provides. It will also allow the user to understand what they will get from the company for that price and that service.
+
+### **Gallery**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/gallery-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/gallery-mobile.jpg" width="350">
+</details>
+
++ The gallery section features eight images that are responsive in terms of the layout and have been carefully selected. A video to a youtube video has been embedded below the images showing two dogs playing happily at the park.
+
++ This section is important to the user as it taps into there emotional side, offering them an insight into what the company offers, as well how the dogs are portrayed in the companies care. The video in this section also really helps give a positive vibe as videos are more interactive, enhancing the user experience within this section.
+
+### **Contact**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/contact-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/contact-mobile.jpg" width="350">
+</details>
+
++ The features within this section are a form that includes Name, Email Address, Mobile, Postcode, Message and submit button, as well as a map pinpointing the company and the surrounding areas. Both form and map are side by side and are fully responsive in that the map will be underneath the form on smaller screen sizes.
+
++ The user will use this section to contact company about any/all of the services or general enquiries. They will need to fill out the form and then submit which will then lead them to the [thankyou page](#thankyou). The map offers the user the all important understanding of where the company is situated and the areas around where the company operates.
+
+### **Footer**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/footer-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/footer-mobile.jpg" width="350">
+</details>
+
++ The footer features the time in which the company operates at, the address of the company and the telephone numbers. All three parts of the footer have easy to understand icons. At the bottom of the footer there are the social media links and then a line of text with the copyright statement for the site.
+
++ The user will be able to gain essential information regarding the company as well as giving them links to three social media platforms.
+
+### **Thankyou**
+
+<details>
+<summary>Images</summary>
+
+**Desktop**
+
+<img src="assets/images/readme/thankyou-desktop.jpg" width="1000">
+
+**Mobile**
+
+<img src="assets/images/readme/thankyou-mobile.jpg" width="350">
+</details>
+
++ This entirely different page features both the navbar and footer from the main index.html page. It also features an icon of a dog, a header with a short piece of text underneath. This is all followed by a button which links back to the homepage and another link underneath which links to the contact section in the main index.html page.
+
++ The user will get to know that there message has been sent successfully and the timeframe as to the response of that message. This is all based around the familiar branding of the main index.html page.
+
+---
+
+## Future Features
+
++ To include a 404.html page. This again enhances the user experience by giving them that all familiar branding which could potential keep the user from leaving the site altogether.
+
++ To change the images within the gallery to use a carousel slider. This should be fully responsive allowing for different numbers of images within the carousel depending on which screen size the gallery is being viewed on.
+
++ To offer more services, therefore enhancing what we can offer potential users and also providing more revenue streams within the business.
