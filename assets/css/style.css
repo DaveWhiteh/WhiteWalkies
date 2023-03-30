@@ -409,6 +409,17 @@ hr {
     
 }
 
+@media screen and (min-width: 768px) and (max-width: 991px) and (orientation: landscape) {
+    .banners-image {
+        height: 500px;
+    }
+
+    .hero-content {
+        display: none;
+    }
+    
+}
+
 @media screen and (min-width: 768px) and (max-width: 991px) {
     .hero-content {
         position: absolute;
