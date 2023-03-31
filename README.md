@@ -646,3 +646,23 @@ I want the site to be responsive so users on any platform can successfully navig
 </details>
 
 + This has been achieved by using the bootstrap framework which utilises the grid system. There has also been styles within the css set out into media queries which have also help form the responsive design of the site.
+
+### **Validation**
+
+**HTML**
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/html-validation.jpg" width="1000">
+</details>
+
+The HTML was tested using the validation site W3C HTML Validation Service. No errors were found.
+
+**CSS**
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/css-validation.jpg" width="1000">
+</details>
+
+The validation site W3C CSS Validation Service was used to validate the CSS. No errors were found. There were 9 warnings, however these were to do with vendor extensions.
