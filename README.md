@@ -369,3 +369,70 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 + To change the images within the gallery to use a carousel slider. This should be fully responsive allowing for different numbers of images within the carousel depending on which screen size the gallery is being viewed on.
 
 + To offer more services, therefore enhancing what we can offer potential users and also providing more revenue streams within the business.
+
+---
+
+## Technologies Used
+
+### **Languages**
+
++ [HTML5](https://en.wikipedia.org/wiki/HTML5)
++ [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### **Frameworks & Libraries**
+
++ [Bootstrap 5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+    + used to create the structure and layout of the website, making it responsive on all devices.
++ [Google Fonts](https://fonts.google.com/)
+    + used to get the links to the fonts that are put in the head of the html pages. These fonts are then used throughout the website.
++ [Font Awesome](https://fontawesome.com/)
+    + this was used to add icons to the project.
++ [Git](https://git-scm.com/)
+    + was used for version control in order to add, commit and push from GitPod to GitHub.
++ [GitPod](https://github.com/)
+    + is used as a repository and to host the full project.
++ [GitHub](https://www.gitpod.io/)
+    + is the IDE that is used to develop the a whole site.
+
+### **Programs**
+
++ [Adobe Illustrator](https://www.adobe.com/uk/products/illustrator.html)
+    + illustrator is used to create the websites main logo.
++ [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html)
+    + is used to resize all the images that are used within the project.
+
+### **Websites**
+
++ [Fontpair](https://www.fontpair.co/)
+    + this site was used to pair the two main fonts that are used throughout the whole site.
++ [Color-hex](https://www.color-hex.com/)
+    + was used to choose the colour palette that was used through the website.
++ [Make Tints and Shades](https://maketintsandshades.com/)
+    + used to create the tints from the main colour palette for use on the whole site.
++ [Figma](https://www.figma.com/)
+    + used to create the wireframes and design layout for the project.
++ [Pexels](https://www.pexels.com/)
+    + this site was used to source images that would be used within the website.
++ [Unsplash](https://unsplash.com/)
+    + this site was used to source images that would be used within the website.
++ [Pixabay](https://pixabay.com/)
+    + this site was used to source images that would be used within the website.
++ [The Noun Project](https://thenounproject.com/)
+    + was used to source the dog icon used in the thankyou page.
++ [Favicon](https://favicon.io/)
+    + used to create the favicon for the website pages tab.
++ [Am I Responsive?](https://ui.dev/amiresponsive)
+    + used to create the responsive mock-up image that is at the beginning of the readme file.
++ [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+    + this was used throughout the whole project, from creating the site, testing the responsiveness of the site and then testing the performance.
++ [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+    + this site is used to validate the css which was used to style the site.
++ [W3C HTML Validation Service](https://validator.w3.org/)
+    + used to validate the html for both the index and thankyou pages in the project.
++ [W3Schools](https://www.w3schools.com/)
+    + this site was used a reference site for learning purposes.
++ [Stack Overflow](https://stackoverflow.com/)
+    + was used for seeking out answers and general learning purposes.
+
+---
+
