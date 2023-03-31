@@ -425,14 +425,18 @@ hr {
         position: absolute;
         bottom: 10%;
     }
-    
+      
+}
+
+@media screen and (max-width: 991px) {
+    .hero-image {
+        height: 75vh;
+        background-position: 50% -75px;
+    }
+
 }
 
 @media screen and (max-width: 767px) {
-    .hero-image {
-        height: 65vh;
-    }
-
     .hero-content {
         display: none;
     }
@@ -450,6 +454,14 @@ hr {
     .googlemap-container,
     .googlemap {
         height: 300px;
+    }
+
+}
+
+@media screen and (max-width: 991px) and (orientation: landscape) {
+    .hero-image {
+        height: 100vh;
+        background-position: 50% 25%;
     }
 
 }
