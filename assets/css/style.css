@@ -420,6 +420,14 @@ hr {
 
 @media screen and (max-width: 767px) {
     .hero-content {
+        bottom: 1rem;
+    }
+    
+    .hero-header {
+        font-size: 2rem;
+    }
+
+    .hero-button {
         display: none;
     }
 
@@ -451,15 +459,23 @@ hr {
 @media screen and (min-width: 650px) and (max-width: 991px) and (orientation: landscape) {
     p {
         font-size: 90%;
-    }
-    
-    .hero-content {
-        display: none;
-    }
+    }   
 
     .hero-image {
-        height: 100vh;
+        height: 90vh;
         background-position: 50% -40px;
+    }
+
+    .hero-content {
+        bottom: 3rem;
+    }
+
+    .hero-header {
+        font-size: 2rem;
+    }
+
+    .hero-button {
+        display: none;
     }
 
     .banners-image {
@@ -490,6 +506,10 @@ hr {
     .hero-image {
         height: 65vh;
         background-position: 50%;
+    }
+
+    .hero-content {
+        display: none;
     }
 
     .media-text,
