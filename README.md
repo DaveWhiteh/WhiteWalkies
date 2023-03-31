@@ -666,3 +666,33 @@ The HTML was tested using the validation site W3C HTML Validation Service. No er
 </details>
 
 The validation site W3C CSS Validation Service was used to validate the CSS. No errors were found. There were 9 warnings, however these were to do with vendor extensions.
+
+### **Responsiveness**
+
+**Live**
+
+The site was tested on two live devices:
++ iiyama desktop monitor - 1920x1080 resolution
++ Google Pixel 5
+
+On both devices the site performed as expected and was responsive.
+
+**Simulation**
+
+The site was also tested using Chrome Developer Tools on the following setups:
++ iPhone SE
++ iPhone XR
++ iPhone 12 Pro
++ Pixel 5
++ Samsung Galaxy S8+
++ Samsung Galazy S20 Ultra
++ Galaxy Fold
++ Samsung Galaxy A51/71
++ iPad Air
++ iPad Mini
++ Surface Pro 7
++ Surface Duo
++ Nest Hub
++ Nest Hub Max
+
+For the best part the site performed as expected and was responsive.
