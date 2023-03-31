@@ -161,7 +161,7 @@ hr {
 /* --------------------------------------------------------------------------------------- Hero */
 
 .hero-image {
-    height: 85vh;
+    height: 100vh;
     background-image: url('../images/hero.jpg');
     background-repeat: no-repeat;
     background-position: center;
@@ -392,7 +392,7 @@ hr {
 }
 
 @media screen and (min-width: 768px) {
-    #footer {
+    .footer-thankyou {
         position: fixed;
         width: 100%;
         max-width: 100%;
@@ -402,38 +402,20 @@ hr {
     
 }
 
-@media screen and (min-width: 768px) and (max-width: 1199px) {
-    .hero-header {
-        font-size: 2.75rem;
-    }
-    
-}
-
-@media screen and (min-width: 768px) and (max-width: 991px) and (orientation: landscape) {
-    .banners-image {
-        height: 500px;
-    }
-
-    .hero-content {
-        display: none;
-    }
-    
-}
-
 @media screen and (min-width: 768px) and (max-width: 991px) {
     .hero-content {
-        position: absolute;
-        bottom: 10%;
-    }
-      
-}
+        bottom: 3rem;
+     }
 
-@media screen and (max-width: 991px) {
+     .hero-header {
+        font-size: 2.5rem;
+    }
+
     .hero-image {
         height: 75vh;
-        background-position: 50% -75px;
+        background-position: 50% -125px;
     }
-
+    
 }
 
 @media screen and (max-width: 767px) {
@@ -441,14 +423,17 @@ hr {
         display: none;
     }
 
+    .banners-image {
+        height: 1000px;
+    }
+
+}
+
+@media screen and (min-width: 301px) and (max-width: 767px) {
     .media-text,
     .prices-banner-text {
         font-size: 1.15rem;
         line-height: 2rem;
-    }
-
-    .banners-image {
-        height: 750px;
     }
 
     .googlemap-container,
@@ -456,12 +441,73 @@ hr {
         height: 300px;
     }
 
-}
-
-@media screen and (max-width: 991px) and (orientation: landscape) {
     .hero-image {
-        height: 100vh;
-        background-position: 50% 25%;
+        height: 65vh;
+        background-position: 50% -75px;
     }
 
+}
+
+@media screen and (min-width: 650px) and (max-width: 991px) and (orientation: landscape) {
+    p {
+        font-size: 90%;
+    }
+    
+    .hero-content {
+        display: none;
+    }
+
+    .hero-image {
+        height: 100vh;
+        background-position: 50% -40px;
+    }
+
+    .banners-image {
+        height: 1000px;
+    }
+
+    .media-text,
+    .prices-banner-text {
+        font-size: 1rem;
+        line-height: 2rem;
+    }
+
+    .footer-text {
+        font-size: 85%;
+    }
+
+    .footer-copy {
+        font-size: 70%;
+    }
+    
+}
+
+@media screen and (max-width: 300px) {
+    p {
+        font-size: 80%;
+    }
+
+    .hero-image {
+        height: 65vh;
+        background-position: 50%;
+    }
+
+    .media-text,
+    .prices-banner-text {
+        font-size: 1rem;
+        line-height: 2rem;
+    }
+
+    .googlemap-container,
+    .googlemap {
+        height: 250px;
+    }
+
+    .footer-text {
+        font-size: 90%;
+    }
+
+    .footer-copy {
+        font-size: 70%;
+    }
 }
