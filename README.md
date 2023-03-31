@@ -38,6 +38,9 @@
     + [Browser Compatiblities](#browser-compatibility)
     + [Performance](#performance)
 7. [Deployment](#deployment)
+    + [GitHub Pages](#github-pages)
+    + [Forking the GitHub Repository](#forking-the-github-repository)
+    + [Cloning the GitHub Repository](#cloning-the-github-repository)
 8. [Credits](#credits)
 
 ---
@@ -733,3 +736,35 @@ The site performed really well in the Lighthouse test for the desktop.
 </details>
 
 The site performance dipped slightly for the mobile test. However after reviewing the performance and evaluating how the site performs on actual mobile devices I was not concerned by this outcome. No actions have been taken at this time.
+
+---
+
+## Deployment
+
+### **GitHub Pages**
+
+GitHub pages was used to deploy the site.
+
+The steps to deploy the live site are:
+
++ In the GitHub repository navigate to the 'Settings' tab
++ On the left hand menu click on 'Pages'
++ Under Build and Deployment > Branch select 'main' and '/root'
++ Click save
++ The link to the live website will then be displayed at the top when successfully published
+
+### **Forking the GitHub Repository**
+
++ Go to the GitHub repository
++ Click on the fork button in the top right hand corner of the page
+
+### **Cloning the GitHub Repository**
+
++ Go the GitHub repository
++ Click on the 'Code' button
++ In the dropdown menu click on 'HTTPS'
++ Copy the link to the clipboard
++ Open Git Bash
++ Locate the desired directory where you want to place the cloned directory
++ Type 'git clone' and then paste the copied URL
++ Press 'enter' to create the clone
