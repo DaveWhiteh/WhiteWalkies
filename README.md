@@ -53,7 +53,7 @@ WhiteWalkies is a business that offers dog/puppy walking and dog/puppy sitting s
 
 The user will benefit from having a basic insight into a company that offers the very best in care and experience to both the customer and their dog/puppy. They will be provided with just the essential information and pricing about the services, as well as a mini gallery that will allow them to get a sense and feeling of how happy their dog/puppy will be within the care of one of it's responsibly trained staff. All this will give the user the confidence and happiness that they are making the right decision by choosing to get in touch with WhiteWalkies. 
 
-*Click **[here](https://davewhiteh.github.io/whitewalkies/)** to view the live website.*
+***Click **[here](https://davewhiteh.github.io/whitewalkies/)** to view the live website.***
 
 ---
 
