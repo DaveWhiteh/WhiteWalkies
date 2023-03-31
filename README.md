@@ -36,6 +36,7 @@
     + [Validation](#validation)
     + [Responsiveness](#responsiveness)
     + [Browser Compatiblities](#browser-compatibility)
+    + [Performance](#performance)
 7. [Deployment](#deployment)
 8. [Credits](#credits)
 
@@ -656,7 +657,7 @@ I want the site to be responsive so users on any platform can successfully navig
 **HTML**
 
 <details>
-<summary>Images</summary>
+<summary>Image</summary>
 <img src="assets/images/readme/html-validation.jpg" width="1000">
 </details>
 
@@ -665,7 +666,7 @@ The HTML was tested using the validation site W3C HTML Validation Service. No er
 **CSS**
 
 <details>
-<summary>Images</summary>
+<summary>Image</summary>
 <img src="assets/images/readme/css-validation.jpg" width="1000">
 </details>
 
@@ -710,3 +711,25 @@ The site was tested on the following browsers:
 + Microsoft Edge
 
 On all three browsers the site performed as expected with no issues found.
+
+### **Performance**
+
+The site was put through a performance test using Google Chrome Developer Tools Lighthouse test.
+
+**Desktop**
+
+<details>
+<summary>Image</summary>
+<img src="assets/images/readme/performance-desktop.jpg" width="500">
+</details>
+
+The site performed really well in the Lighthouse test for the desktop.
+
+**Mobile**
+
+<details>
+<summary>Image</summary>
+<img src="assets/images/readme/performance-mobile.jpg" width="500">
+</details>
+
+The site performance dipped slightly for the mobile test. However after reviewing the performance and evaluating how the site performs on actual mobile devices I was not concerned by this outcome. No actions have been taken at this time.
