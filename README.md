@@ -32,6 +32,10 @@
     + [Programs](#programs)
     + [Websites](#websites)
 6. [Testing](#testing)
+    + [Testing User Stories](#testing-user-stories)
+    + [Validation](#validation)
+    + [Responsiveness](#responsiveness)
+    + [Browser Compatiblities](#browser-compatibility)
 7. [Deployment](#deployment)
 8. [Credits](#credits)
 
