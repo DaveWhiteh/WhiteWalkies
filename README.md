@@ -440,3 +440,209 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 
 ---
 
+## Testing
+
+### **Testing User Stories**
+
+**As a potential customer:**
+
+At first glance I want to be engaged enough to happily navigate through the rest of the site
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/hero-desktop.jpg" width="1000">
+</details>
+
++ As soon as the user loads the site they are immediately greeted with a full width and height hero image that has the added effect of animated text that slides in from the left hand side. There is a button in pink that is just below this text allowing the user to go straight to the contact section. The use of the black and pink for the navbar work well together and allows this first page to really capture the users attention upon first glance.
+
+I want to have an insight into the company and where they operate
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-insight-1.jpg" width="1000">
+
+<img src="assets/images/readme/us-potcus-insight-2.jpg" width="1000">
+</details>
+
++ There is the about us section which offers a brief insight into the company. This gives them an introduction and what they can expect from the company.
++ The user can scroll to the bottom of the page and they will see a map of the area in which they can pinpoint the company and the surrounding areas in which they operate.
+
+I want to know that they have all the checks and insurance in place
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-checks-1.jpg" width="1000">
+
+<img src="assets/images/readme/us-potcus-checks-2.jpg" width="1000">
+
+<img src="assets/images/readme/us-potcus-checks-3.jpg" width="1000">
+</details>
+
++ Firstly the checks are highlighted within the about us section. The important words insured, licensed, DBS/CRB and Canine first aid, are all in bold. This is so the user can easily see that the company has the necessary certifications and checks in place.
++ They are then identified in the middle section of the page which is is easily picked up by the user with the use of icons and short snappy text.
++ The third time that these checks are highlighted is just after the prices. It is subtle and just reiterates to the user that the company has all the correct documents to give them peace of mind and to reassure them that there dog/puppy will be in the best of care.
+
+I want to be able to see what services they offer
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-services-1.jpg" width="1000">
+</details>
+
++ There is a full section in regards to the services that the company offers. Each service has it's own image which relates to that particular service, the header of the service, a brief description and then a button that links to the contact section at the bottom of the page.
+
+I want to be able to see what the pricing is for each service
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-pricing-1.jpg" width="1000">
+</details>
+
++ There is a section that is all about the pricing for each service that the company offers. The prices are in different colours to the rest of the text so that they immediately catch the users eye.
+
+I want to see what is included in the price
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-priceinclude-1.jpg" width="1000">
+</details>
+
++ What is included for that price is also within the price section of the page. This is set out with clear easy to read text so that user knows exactly what they will be getting for the price of that particular service.
+
+I want to know how to get in touch with the company
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-getintouch-1.jpg" width="1000">
+</details>
+
++ On each section there is a button that is clear and concise and is coloured in pink that allows it to stand out from each section. The link will navigate the user to the contact section at the bottom of the page.
++ Once the user gets to the contact section there is a form that is simply set out for the user to enter their details and a message and then submit that message using the submit button at the bottom of the form.
+
+I want to see pictures of dogs/puppies in different environments
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-picsdogs-1.jpg" width="1000">
+
+<img src="assets/images/readme/us-potcus-picsdogs-2.jpg" width="1000">
+
+<img src="assets/images/readme/us-potcus-picsdogs-3.jpg" width="1000">
+</details>
+
++ The next section that offers images for the user to see is the pet services section. This offers two images one for each service. Each image relates to that particular service on offer.
++ There is the banner image in the middle part of the site. This image is a full width fixed image that the user can fully enjoy whilst the text scrolls over it.
++ Then the user will come to the gallery section which offers eight images in total. All of which shows the dogs/puppies within different environments which will allow the user to get a glimpse into what types of experiences there dog/puppy will be given with the care of the company.
+
+I want to see what hours the company operates at
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-operatehours-1.jpg" width="1000">
+</details>
+
++ The companies operating hours can be located in the footer. The text is white and so stands out from the black footer. It also has an icon of a clock coloured in pink, that allows the user to clearly identify what this part of the text is showing.
+
+I want to be able to see and click on the links to their social media pages
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-socialmedia-1.jpg" width="1000">
+
+<img src="assets/images/readme/us-potcus-socialmedia-2.jpg" width="1000">
+</details>
+
++ In the middle of the website there is a full width banner that has a single line text with three social media icons underneath, for facebook, twitter and instagram. These stand as they are coloured pink which works well against the almost black background. When the icons are hovered over they turn to a dark beige allowing the user to clearly see which platform they are about to click.
++ These same three icons with the same features can also be found in the footer.
+
+I want to easily navigate through the site without becoming overwhelmed with too much information
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/about-desktop.jpg" width="1000">
+
+<img src="assets/images/readme/services-desktop.jpg" width="1000">
+
+<img src="assets/images/readme/prices-desktop.jpg" width="1000">
+</details>
+
++ The site's goal has clearly been set out with the "quality over quantity" attitude. There is not huge amount's of text that could potentially overwhelm the user, instead there is clear and concise text where it is required.
+
+I want to see where the company is located
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-located-1.jpg" width="1000">
+</details>
+
++ The user can scroll to the bottom of the page and they will see a map of the area in which clearly pinpoints where the company is located.
++ They can also use the address which is highlighted in the footer.
+
+**As the Business Owner:**
+
+I want to generate new business by getting users to contact the company
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-busown-contact-1.jpg" width="1000">
+
+<img src="assets/images/readme/us-busown-contact-2.jpg" width="1000">
+
+<img src="assets/images/readme/us-busown-contact-3.jpg" width="1000">
+
+<img src="assets/images/readme/us-busown-contact-4.jpg" width="1000">
+
+<img src="assets/images/readme/us-busown-contact-5.jpg" width="1000">
+
+<img src="assets/images/readme/us-busown-contact-6.jpg" width="1000">
+</details>
+
++ This has been achieved by having a button on each section that offers the user the opportunity to go straight to the contact section at the bottom of the page without the need to continue to scroll.
+
+I want users to easily navigate through the site and at the end be confident enough to contact the company
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/about-mobile.jpg" width="1000">
+
+<img src="assets/images/readme/services-mobile.jpg" width="1000">
+
+<img src="assets/images/readme/banners-mobile.jpg" width="1000">
+</details>
+
++ The site has been designed with a single scroll layout which helps keep the navigation of the site short and simple. This in turn with just the right amount of text and carefully selected imagery should give the user enough incentive to get in touch.
+
+I want the site to show the motto of "quality over quantity" in terms of the information that is on display
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/about-mobile.jpg" width="1000">
+
+<img src="assets/images/readme/services-mobile.jpg" width="1000">
+
+<img src="assets/images/readme/prices-mobile.jpg" width="1000">
+</details>
+
++ The information on the site has been selected so that it gives the user clear understanding of the companies views and quality of standards without the need to write paragraphs of information. 
+
+I want to encourage users to go to our social media pages which will help boost the profile of the company
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/us-potcus-socialmedia-1.jpg" width="1000">
+
+<img src="assets/images/readme/us-potcus-socialmedia-2.jpg" width="1000">
+</details>
+
++ This has been achieved at two points within the site. The first in the middle section which scrolls over the full width fixed background image. The second is located in the footer. In both locations the social media icons are pink allowing the user to easily identify which icon represents which platform. Once the user hovers over the icons they turn dark beige which allows the user to easily be aware of which social media platform they are clicking on.
+
+I want the site to be responsive so users on any platform can successfully navigate the site
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/banners-desktop.jpg" width="1000">
+
+<img src="assets/images/readme/banners-mobile.jpg" width="1000">
+</details>
+
++ This has been achieved by using the bootstrap framework which utilises the grid system. There has also been styles within the css set out into media queries which have also help form the responsive design of the site.
