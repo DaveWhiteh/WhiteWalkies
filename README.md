@@ -681,11 +681,15 @@ The validation site W3C CSS Validation Service was used to validate the CSS. No 
 
 **Live**
 
-The site was tested on two live devices:
+The site was tested on the following live devices:
 + iiyama desktop monitor - 1920x1080 resolution
+    + the site performed smoothly and was as expected, with no known issues to report.
 + Google Pixel 5
-
-On both devices the site performed as expected and was responsive.
+    + the site was rigorously tested throughout in both orientation's. The site loaded quickly and was responsive. The functionality of the site worked well. There was a slight lag when hitting the Gallery section of the site (for details please see Bugs & Fixes section). Also an odd effect was noticed when scrolling over the two fixed background-images (hero and banner) the image was then zoomed in (for details please see Bugs & Fixes section). This was only picked up, after multiple times of scrolling through the site. This didn't have any overall affect on the site responsiveness or functionality.
++ Google Pixel 6a
+    + the site was tested by a different user. Their comments were very positive. Great design with good functionality and easy to navigate. They did not mention the slight lag on screen and were not aware of the zoom in on the two background-images. They did however make a comment on the navbar, in that it did not auto close once they clicked on a section (for more details please see Bugs & Fixes section).
++ Amazon Fire Tablet HD
+    + when testing on the Fire Tablet again responsiveness was great, the elements worked well on the page and functionality had no issues. As it was highlighted on the pixel 5 testing there was the slight issue with the background-images zooming in (for details please see Bugs & Fixes section).
 
 **Simulation**
 
@@ -705,7 +709,7 @@ The site was also tested using Chrome Developer Tools on the following setups:
 + Nest Hub
 + Nest Hub Max
 
-For the best part the site performed as expected and was responsive.
+The site performed as expected and was responsive, with all functionality and navigation working well.
 
 ### **Browser Compatibility**
 
