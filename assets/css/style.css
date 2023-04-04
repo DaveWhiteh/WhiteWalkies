@@ -446,7 +446,8 @@ hr {
 
     .googlemap-container,
     .googlemap {
-        height: 300px;
+        width: 100%;
+        height: 250px;
     }
 
     .hero-image {
