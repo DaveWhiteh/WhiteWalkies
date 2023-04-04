@@ -682,14 +682,14 @@ The validation site W3C CSS Validation Service was used to validate the CSS. No 
 **Live**
 
 The site was tested on the following live devices:
-+ iiyama desktop monitor - 1920x1080 resolution
++ **iiyama desktop monitor - 1920x1080 resolution**
     + the site performed smoothly and was as expected, with no known issues to report.
-+ Google Pixel 5
-    + the site was rigorously tested throughout in both orientation's. The site loaded quickly and was responsive. The functionality of the site worked well. There was a slight lag when hitting the Gallery section of the site (for details please see Bugs & Fixes section). Also an odd effect was noticed when scrolling over the two fixed background-images (hero and banner) the image was then zoomed in (for details please see Bugs & Fixes section). This was only picked up, after multiple times of scrolling through the site. This didn't have any overall affect on the site responsiveness or functionality.
-+ Google Pixel 6a
-    + the site was tested by a different user. Their comments were very positive. Great design with good functionality and easy to navigate. They did not mention the slight lag on screen and were not aware of the zoom in on the two background-images. They did however make a comment on the navbar, in that it did not auto close once they clicked on a section (for more details please see Bugs & Fixes section).
-+ Amazon Fire Tablet HD
-    + when testing on the Fire Tablet again responsiveness was great, the elements worked well on the page and functionality had no issues. As it was highlighted on the pixel 5 testing there was the slight issue with the background-images zooming in (for details please see Bugs & Fixes section).
++ **Google Pixel 5**
+    + the site was rigorously tested throughout in both orientation's. The site loaded quickly and was responsive. The functionality of the site worked well. There was a slight lag when hitting the Gallery section of the site (for details please click [here](#bugs-and-fixes)). Also an odd effect was noticed when scrolling over the two fixed background-images (hero and banner) the image was then zoomed in (for details please click [here](#bugs-and-fixes)). This was only picked up, after multiple times of scrolling through the site. This didn't have any overall affect on the site responsiveness or functionality.
++ **Google Pixel 6a**
+    + the site was tested by a different user. Their comments were very positive. Great design with good functionality and easy to navigate. They did not mention the slight lag on screen and were not aware of the zoom in on the two background-images. They did however make a comment on the navbar, in that it did not auto close once they clicked on a section (for details please click [here](#bugs-and-fixes)).
++ **Amazon Fire Tablet HD**
+    + when testing on the Fire Tablet again responsiveness was great, the elements worked well on the page and functionality had no issues. As it was highlighted on the pixel 5 testing there was the slight issue with the background-images zooming in (for details please click [here](#bugs-and-fixes)).
 
 **Simulation**
 
@@ -742,6 +742,26 @@ The site performed really well in the Lighthouse test for the desktop.
 </details>
 
 The site performance dipped slightly for the mobile test. However after reviewing the performance and evaluating how the site performs on actual mobile devices I was not concerned by this outcome. No actions have been taken at this time.
+
+### **Bugs and Fixes**
+
+**Navbar - Auto close on click**
+
+This was a feature that a user picked up on when testing the site on a mobile.
+
+***Issue/Feature*** - The navbar did not auto collapse once a section had been clicked.
+
+<details>
+<summary>Image</summary>
+<img src="assets/images/readme/bugsfixes-navbar-issue.jpg" width="350">
+</details>
+
+***Resolution*** - The html has been amended to accommodate this feature in both the index.html and thankyou.html. The solution was found using [stack overflow](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-navbar-on-click). Essentially the solution was to add an additional 'a' tag and add a 'span' for each nav-item, whereby only one of the 'a' tags would be displayed depending on the screen size.
+
+<details>
+<summary>Image</summary>
+<img src="assets/images/readme/bugsfixes-navbar-resolution.jpg" width="350">
+</details>
 
 ---
 
