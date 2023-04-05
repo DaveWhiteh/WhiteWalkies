@@ -417,6 +417,10 @@ hr {
         font-size: 2.5rem;
     }
 
+    .hero-image {
+        height: 70vh;
+    }
+
     .banners-image {
         height: 800px;
     }
