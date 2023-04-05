@@ -165,7 +165,6 @@ hr {
     background-image: url('../images/hero.webp');
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -194,7 +193,6 @@ hr {
     background-image: url('../images/banner.webp');
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -337,32 +335,32 @@ hr {
 }
 
 @keyframes slide-in-left {
-  from {
-      transform: translateX(-100%);
-      opacity: 0.25;
-  }
+    from {
+        transform: translateX(-100%);
+        opacity: 0.25;
+    }
     
-  to {
-      transform: translateX(0%);
-      opacity: 1;
-  }
+    to {
+        transform: translateX(0%);
+        opacity: 1;
+    }
 }
 
 .animation-slide-in-left-line2 {
-    animation-name: slide-in-left;
-    animation-duration: 4s;
+        animation-name: slide-in-left;
+        animation-duration: 4s;
 }
 
 @keyframes slide-in-left {
-  from {
-      transform: translateX(-300%);
-      opacity: 0.25;
-  }
+    from {
+        transform: translateX(-300%);
+        opacity: 0.25;
+    }
     
-  to {
-      transform: translateX(0%);
-      opacity: 1;
-  }
+    to {
+        transform: translateX(0%);
+        opacity: 1;
+    }
 }
 
 .animation-slide-in-left-line3 {
@@ -371,100 +369,71 @@ hr {
 }
 
 @keyframes slide-in-left {
-  from {
-      transform: translateX(-400%);
-      opacity: 0.25;
-  }
+    from {
+        transform: translateX(-400%);
+        opacity: 0.25;
+    }
     
-  to {
-      transform: translateX(0%);
-      opacity: 1;
-  }
+    to {
+        transform: translateX(0%);
+        opacity: 1;
+    }
 }
 
 /* --------------------------------------------------------------------------------------- Media Queries */
+
+@media screen and (max-width: 1199px) {
+    .hero-header {
+        font-size: 2.5rem;
+    }
+
+    .hero-image {
+        height: 90vh;
+    }
+
+}
 
 @media screen and (min-width: 992px) {
     p {
         font-size: 112%;
     }
+
+    .hero-image {
+        background-attachment: fixed;
+    }
+
+    .banners-image {
+        background-attachment: fixed;
+    }
     
 }
 
-@media screen and (min-width: 768px) {
-    .footer-thankyou {
-        position: fixed;
-        width: 100%;
-        max-width: 100%;
-        bottom: 0;
-        margin: 0 auto;
-     }
-    
-}
-
-@media screen and (min-width: 768px) and (max-width: 991px) {
+@media screen and (max-width: 991px) and (orientation: portrait) {
     .hero-content {
         bottom: 3rem;
      }
 
-     .hero-header {
+    .hero-header {
         font-size: 2.5rem;
     }
 
     .hero-image {
         height: 75vh;
-        background-position: 50% -125px;
-    }
-    
-}
-
-@media screen and (max-width: 767px) {
-    .hero-content {
-        bottom: 1rem;
-    }
-    
-    .hero-header {
-        font-size: 2rem;
-    }
-
-    .hero-button {
-        display: none;
     }
 
     .banners-image {
-        height: 1000px;
+        height: 800px;
     }
 
 }
 
-@media screen and (min-width: 301px) and (max-width: 767px) {
-    .media-text,
-    .prices-banner-text {
-        font-size: 1.15rem;
-        line-height: 2rem;
-    }
-
-    .googlemap-container,
-    .googlemap {
-        width: 100%;
-        height: 250px;
-    }
-
-    .hero-image {
-        height: 65vh;
-        background-position: 50% -75px;
-    }
-
-}
-
-@media screen and (min-width: 650px) and (max-width: 991px) and (orientation: landscape) {
+@media screen and (max-width: 991px) and (orientation: landscape) {
     p {
         font-size: 90%;
     }   
 
     .hero-image {
-        height: 90vh;
-        background-position: 50% -40px;
+        height: 80vh;
     }
 
     .hero-content {
@@ -480,7 +449,7 @@ hr {
     }
 
     .banners-image {
-        height: 1000px;
+        height: 800px;
     }
 
     .media-text,
@@ -496,21 +465,79 @@ hr {
     .footer-copy {
         font-size: 70%;
     }
+
+}
+
+@media screen and (min-width: 768px) {
+    .footer-thankyou {
+        position: fixed;
+        width: 100%;
+        max-width: 100%;
+        bottom: 0;
+        margin: 0 auto;
+    }
     
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 767px) {
+    .hero-content {
+        bottom: 1rem;
+    }
+
+     .hero-header {
+        font-size: 2rem;
+    }
+
+    .hero-button {
+        display: none;
+    }
+    
+    .media-text,
+    .prices-banner-text {
+        font-size: 1.15rem;
+        line-height: 2rem;
+    }
+
+    .googlemap-container,
+    .googlemap {
+        width: 100%;
+        height: 250px;
+    }
+
+}
+
+@media screen and (max-width: 575px) {
+    .hero-image {
+        background-image: url('../images/hero-mobile.webp');
+    }
+
+    .banners-image {
+        background-image: url('../images/banner-mobile.webp');
+    }
+
+}
+
+
+@media screen and (max-width: 320px) {
     p {
-        font-size: 80%;
+        font-size: 90%;
+    }
+
+    .navbar {
+        height: 5rem;
+    }
+
+    #whitewalkies-logo {
+        width: 175px;
+        height: 100%;
     }
 
     .hero-image {
         height: 65vh;
-        background-position: 50%;
     }
 
-    .hero-content {
-        display: none;
+    .hero-header {
+        font-size: 1.5rem;
     }
 
     .media-text,
