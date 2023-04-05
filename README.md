@@ -763,6 +763,28 @@ This was a feature that a user picked up on when testing the site on a mobile.
 <img src="assets/images/readme/bugsfixes-navbar-resolution.jpg" width="350">
 </details>
 
+**Lag on scroll**
+
+This was a slight issue that was picked up on during the rigurous testing stage on a mobile device.
+
+***Issue/Feature*** - There was a slight lag when scrolling when approaching the gallery section of the site on a mobile device.
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/bugsfixes-lag-issue-1.jpg" width="500">
+
+<img src="assets/images/readme/bugsfixes-lag-issue-2.jpg" width="500">
+</details>
+
+***Resolution*** - This issue seemed to come from the lazy attribute on both the iframes that are included in the site. These iframes resided in the gallery section as a video and the contact section as a google map. The mobile first approach is why the decision was made to fix this issue, ultimately removing the lazy attribute from both iframes in order to keep the scrolling and essentially the user experience at a high.
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/bugsfixes-lag-resolution-1.jpg" width="500">
+
+<img src="assets/images/readme/bugsfixes-lag-resolution-2.jpg" width="500">
+</details>
+
 ---
 
 ## Deployment
