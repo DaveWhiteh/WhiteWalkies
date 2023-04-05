@@ -744,7 +744,12 @@ The site performed really well in the Lighthouse test for the desktop.
 <img src="assets/images/readme/performance-mobile.jpg" width="500">
 </details>
 
-The site performance dipped slightly for the mobile test. However after reviewing the performance and evaluating how the site performs on actual mobile devices I was not concerned by this outcome. No actions have been taken at this time.
+The site performance dipped slightly for the mobile test. To get a better performance for mobile all images on the site were replaced with webp versions. Due to an issue with the two background images being fixed on mobiles, these were replaced with different versions of the image for mobile devices only (please see [Bugs and Fixes Section](#bugs-and-fixes) for more detail). The lighthouse test was then done again and the outcome was much better.
+
+<details>
+<summary>Image</summary>
+<img src="assets/images/readme/performance-mobile-2.jpg" width="500">
+</details>
 
 ### **Bugs and Fixes**
 
