@@ -691,7 +691,7 @@ The site was tested on the following live devices:
 + **Amazon Fire Tablet HD**
     + when testing on the Fire Tablet again responsiveness was great, the elements worked well on the page and functionality had no issues. As it was highlighted on the pixel 5 testing there was the slight issue with the background-images zooming in (for details please click [here](#background-images---zooming-in-issue)).
 + **iPhone 11**
-    + the site was tessted using an iphone by a different user. The comments receieved about the site was really positive. They commented how easy it was to navigate through. There was an issue with the two background images, these did not appear on the iphone using safari as its browser (for details please click [here](#bugs-and-fixes)).
+    + the site was tessted using an iphone by a different user. The comments receieved about the site was really positive. They commented how easy it was to navigate through. There was an issue with the two background images, these did not appear on the iphone using safari as its browser (for details please click [here](#iphone---background-images-not-appearing)).
 
 **Simulation**
 
@@ -785,6 +785,7 @@ This was a slight issue that was picked up on during the rigurous testing stage 
 <img src="assets/images/readme/bugsfixes-lag-resolution-1.jpg" width="1000">
 
 <img src="assets/images/readme/bugsfixes-lag-resolution-2.jpg" width="1000">
+</details>
 
 #### **Background-images - zooming in issue**
 
@@ -801,6 +802,29 @@ This issue happened on a couple of tests, one on the google pixel and the other 
 
 + ***Resolution*** - After some intense searching, this issue came down to the fact that ***background-attachment: fixed*** is not currently supported on all mobile browsers. Now even though it is supported on the latest chrome browser it is still understood to have a few glitches. From researching, it is usually not best practise to have fixed images on a mobile.
 The issue was resolved by making both background images not fixed and by making a mobile version of the images in order to get the correct size to work. The media queries were also utilised in order to get the images working on the correct screen sizes. This has now resolved the issue.
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/bugsfixes-background-attachment-resolution-1.jpg" width="400">
+
+<img src="assets/images/readme/bugsfixes-background-attachment-resolution-2.jpg" width="400">
+</details>
+
+#### **iPhone - background-images not appearing**
+
+This issue was noticed when a user tested the site on their iPhone 11.
+
++ ***Issue/Feature*** - The two background images (hero and banner) were not present when viewing the site on an iPhone using the safari browser.
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/bugsfixes-background-attachment-issue-1.jpg" width="400">
+
+<img src="assets/images/readme/bugsfixes-background-attachment-issue-2.jpg" width="400">
+</details>
+
++ ***Resolution*** - This issue is the same as the zooming in issue, it is to do with the ***background-attachment: fixed*** not currently supported on safari for mobiles.
+The issue was resolved with the previous background-images zooming in issue. If this was an issue by itself, the decision would still have been to fix it. IPhone's make up a huge amount of the market space in terms of mobiles sold and also when asking the user and other users who use iphone's they all mentioned that they use the default browser safari and did not download chrome.
 
 <details>
 <summary>Images</summary>
