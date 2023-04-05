@@ -685,11 +685,11 @@ The site was tested on the following live devices:
 + **iiyama desktop monitor - 1920x1080 resolution**
     + the site performed smoothly and was as expected, with no known issues to report.
 + **Google Pixel 5**
-    + the site was rigorously tested throughout in both orientation's. The site loaded quickly and was responsive. The functionality of the site worked well. There was a slight lag when hitting the Gallery section of the site (for details please click [here](#lag-on-scroll)). Also an odd effect was noticed when scrolling over the two fixed background-images (hero and banner) the image was then zoomed in (for details please click [here](#bugs-and-fixes)). This was only picked up, after multiple times of scrolling through the site. This didn't have any overall affect on the site responsiveness or functionality.
+    + the site was rigorously tested throughout in both orientation's. The site loaded quickly and was responsive. The functionality of the site worked well. There was a slight lag when hitting the Gallery section of the site (for details please click [here](#lag-on-scroll)). Also an odd effect was noticed when scrolling over the two fixed background-images (hero and banner) the image was then zoomed in (for details please click [here](#background-images---zooming-in-issue)). This was only picked up, after multiple times of scrolling through the site. This didn't have any overall affect on the site responsiveness or functionality.
 + **Google Pixel 6a**
     + the site was tested by a different user. Their comments were very positive. Great design with good functionality and easy to navigate. They did not mention the slight lag on screen and were not aware of the zoom in on the two background-images. They did however make a comment on the navbar, in that it did not auto close once they clicked on a section (for details please click [here](#navbar---auto-close-on-click)).
 + **Amazon Fire Tablet HD**
-    + when testing on the Fire Tablet again responsiveness was great, the elements worked well on the page and functionality had no issues. As it was highlighted on the pixel 5 testing there was the slight issue with the background-images zooming in (for details please click [here](#bugs-and-fixes)).
+    + when testing on the Fire Tablet again responsiveness was great, the elements worked well on the page and functionality had no issues. As it was highlighted on the pixel 5 testing there was the slight issue with the background-images zooming in (for details please click [here](#background-images---zooming-in-issue)).
 + **iPhone 11**
     + the site was tessted using an iphone by a different user. The comments receieved about the site was really positive. They commented how easy it was to navigate through. There was an issue with the two background images, these did not appear on the iphone using safari as its browser (for details please click [here](#bugs-and-fixes)).
 
@@ -785,6 +785,28 @@ This was a slight issue that was picked up on during the rigurous testing stage 
 <img src="assets/images/readme/bugsfixes-lag-resolution-1.jpg" width="1000">
 
 <img src="assets/images/readme/bugsfixes-lag-resolution-2.jpg" width="1000">
+
+#### **Background-images - zooming in issue**
+
+This issue happened on a couple of tests, one on the google pixel and the other on the amazon fire tablet
+
++ ***Issue/Feature*** - The two background images on both mobile and tablet test were strangely zooming in slightly when they were being scrolled over.
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/bugsfixes-background-attachment-issue-1.jpg" width="400">
+
+<img src="assets/images/readme/bugsfixes-background-attachment-issue-2.jpg" width="400">
+</details>
+
++ ***Resolution*** - After some intense searching, this issue came down to the fact that ***background-attachment: fixed*** is not currently supported on all mobile browsers. Now even though it is supported on the latest chrome browser it is still understood to have a few glitches. From researching, it is usually not best practise to have fixed images on a mobile.
+The issue was resolved by making both background images not fixed and by making a mobile version of the images in order to get the correct size to work. The media queries were also utilised in order to get the images working on the correct screen sizes. This has now resolved the issue.
+
+<details>
+<summary>Images</summary>
+<img src="assets/images/readme/bugsfixes-background-attachment-resolution-1.jpg" width="400">
+
+<img src="assets/images/readme/bugsfixes-background-attachment-resolution-2.jpg" width="400">
 </details>
 
 ---
