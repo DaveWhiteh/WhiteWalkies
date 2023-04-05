@@ -685,11 +685,13 @@ The site was tested on the following live devices:
 + **iiyama desktop monitor - 1920x1080 resolution**
     + the site performed smoothly and was as expected, with no known issues to report.
 + **Google Pixel 5**
-    + the site was rigorously tested throughout in both orientation's. The site loaded quickly and was responsive. The functionality of the site worked well. There was a slight lag when hitting the Gallery section of the site (for details please click [here](#bugs-and-fixes)). Also an odd effect was noticed when scrolling over the two fixed background-images (hero and banner) the image was then zoomed in (for details please click [here](#bugs-and-fixes)). This was only picked up, after multiple times of scrolling through the site. This didn't have any overall affect on the site responsiveness or functionality.
+    + the site was rigorously tested throughout in both orientation's. The site loaded quickly and was responsive. The functionality of the site worked well. There was a slight lag when hitting the Gallery section of the site (for details please click [here](#lag-on-scroll)). Also an odd effect was noticed when scrolling over the two fixed background-images (hero and banner) the image was then zoomed in (for details please click [here](#bugs-and-fixes)). This was only picked up, after multiple times of scrolling through the site. This didn't have any overall affect on the site responsiveness or functionality.
 + **Google Pixel 6a**
-    + the site was tested by a different user. Their comments were very positive. Great design with good functionality and easy to navigate. They did not mention the slight lag on screen and were not aware of the zoom in on the two background-images. They did however make a comment on the navbar, in that it did not auto close once they clicked on a section (for details please click [here](#bugs-and-fixes)).
+    + the site was tested by a different user. Their comments were very positive. Great design with good functionality and easy to navigate. They did not mention the slight lag on screen and were not aware of the zoom in on the two background-images. They did however make a comment on the navbar, in that it did not auto close once they clicked on a section (for details please click [here](#navbar---auto-close-on-click)).
 + **Amazon Fire Tablet HD**
     + when testing on the Fire Tablet again responsiveness was great, the elements worked well on the page and functionality had no issues. As it was highlighted on the pixel 5 testing there was the slight issue with the background-images zooming in (for details please click [here](#bugs-and-fixes)).
++ **iPhone 11**
+    + the site was tessted using an iphone by a different user. The comments receieved about the site was really positive. They commented how easy it was to navigate through. There was an issue with the two background images, these did not appear on the iphone using safari as its browser (for details please click [here](#bugs-and-fixes)).
 
 **Simulation**
 
@@ -745,7 +747,7 @@ The site performance dipped slightly for the mobile test. However after reviewin
 
 ### **Bugs and Fixes**
 
-**Navbar - Auto close on click**
+#### **Navbar - Auto close on click**
 
 This was a feature that a user picked up on when testing the site on a mobile.
 
@@ -763,7 +765,7 @@ This was a feature that a user picked up on when testing the site on a mobile.
 <img src="assets/images/readme/bugsfixes-navbar-resolution.jpg" width="350">
 </details>
 
-**Lag on scroll**
+#### **Lag on scroll**
 
 This was a slight issue that was picked up on during the rigurous testing stage on a mobile device.
 
