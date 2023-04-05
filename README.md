@@ -37,6 +37,7 @@
     + [Responsiveness](#responsiveness)
     + [Browser Compatibility](#browser-compatibility)
     + [Performance](#performance)
+    + [Bugs and Fixes](#bugs-and-fixes)
 7. [Deployment](#deployment)
     + [GitHub Pages](#github-pages)
     + [Forking the GitHub Repository](#forking-the-github-repository)
