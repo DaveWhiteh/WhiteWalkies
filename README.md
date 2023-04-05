@@ -198,7 +198,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **Navigation Bar**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -216,7 +216,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **Hero**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -234,7 +234,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **About Us**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -252,7 +252,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **Pet Services**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -270,7 +270,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **Banners**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -288,7 +288,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **Prices**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -306,7 +306,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **Gallery**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -324,7 +324,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **Contact**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -342,7 +342,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **Footer**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -360,7 +360,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 ### **Thankyou**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 
 **Desktop**
 
@@ -460,7 +460,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **At first glance I want to be engaged enough to happily navigate through the rest of the site**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/hero-desktop.jpg" width="1000">
 </details>
 
@@ -469,7 +469,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to have an insight into the company and where they operate**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-insight-1.jpg" width="1000">
 
 <img src="assets/images/readme/us-potcus-insight-2.jpg" width="1000">
@@ -481,7 +481,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to know that they have all the checks and insurance in place**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-checks-1.jpg" width="1000">
 
 <img src="assets/images/readme/us-potcus-checks-2.jpg" width="1000">
@@ -496,7 +496,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to be able to see what services they offer**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-services-1.jpg" width="1000">
 </details>
 
@@ -505,7 +505,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to be able to see what the pricing is for each service**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-pricing-1.jpg" width="1000">
 </details>
 
@@ -514,7 +514,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to see what is included in the price**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-priceinclude-1.jpg" width="1000">
 </details>
 
@@ -523,7 +523,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to know how to get in touch with the company**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-getintouch-1.jpg" width="1000">
 </details>
 
@@ -533,7 +533,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to see pictures of dogs/puppies in different environments**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-picsdogs-1.jpg" width="1000">
 
 <img src="assets/images/readme/us-potcus-picsdogs-2.jpg" width="1000">
@@ -548,7 +548,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to see what hours the company operates at**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-operatehours-1.jpg" width="1000">
 </details>
 
@@ -557,7 +557,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to be able to see and click on the links to their social media pages**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-socialmedia-1.jpg" width="1000">
 
 <img src="assets/images/readme/us-potcus-socialmedia-2.jpg" width="1000">
@@ -569,7 +569,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to easily navigate through the site without becoming overwhelmed with too much information**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/about-desktop.jpg" width="1000">
 
 <img src="assets/images/readme/services-desktop.jpg" width="1000">
@@ -582,7 +582,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to see where the company is located**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-located-1.jpg" width="1000">
 </details>
 
@@ -594,7 +594,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to generate new business by getting users to contact the company**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-busown-contact-1.jpg" width="1000">
 
 <img src="assets/images/readme/us-busown-contact-2.jpg" width="1000">
@@ -613,7 +613,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want users to easily navigate through the site and at the end be confident enough to contact the company**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/about-mobile.jpg" width="1000">
 
 <img src="assets/images/readme/services-mobile.jpg" width="1000">
@@ -626,7 +626,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want the site to show the motto of "quality over quantity" in terms of the information that is on display**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/about-mobile.jpg" width="1000">
 
 <img src="assets/images/readme/services-mobile.jpg" width="1000">
@@ -639,7 +639,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want to encourage users to go to our social media pages which will help boost the profile of the company**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/us-potcus-socialmedia-1.jpg" width="1000">
 
 <img src="assets/images/readme/us-potcus-socialmedia-2.jpg" width="1000">
@@ -650,7 +650,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **I want the site to be responsive so users on any platform can successfully navigate the site**
 
 <details>
-<summary>Images</summary>
+<summary>Screenshots</summary>
 <img src="assets/images/readme/banners-desktop.jpg" width="1000">
 
 <img src="assets/images/readme/banners-mobile.jpg" width="1000">
@@ -663,7 +663,7 @@ The icons used are all found at Font Awesome. Having icons as the social media l
 **HTML**
 
 <details>
-<summary>Image</summary>
+<summary>HTML Test</summary>
 <img src="assets/images/readme/html-validation.jpg" width="1000">
 </details>
 
@@ -672,7 +672,7 @@ The HTML was tested using the validation site W3C HTML Validation Service. No er
 **CSS**
 
 <details>
-<summary>Image</summary>
+<summary>CSS Test</summary>
 <img src="assets/images/readme/css-validation.jpg" width="1000">
 </details>
 
@@ -731,7 +731,7 @@ The site was put through a performance test using Google Chrome Developer Tools 
 **Desktop**
 
 <details>
-<summary>Image</summary>
+<summary>Desktop Test - 1st Attempt</summary>
 <img src="assets/images/readme/performance-desktop.jpg" width="500">
 </details>
 
@@ -740,14 +740,14 @@ The site performed really well in the Lighthouse test for the desktop.
 **Mobile**
 
 <details>
-<summary>Image</summary>
+<summary>Mobile Test - 1st Attempt</summary>
 <img src="assets/images/readme/performance-mobile.jpg" width="500">
 </details>
 
 The site performance dipped slightly for the mobile test. To get a better performance for mobile all images on the site were replaced with webp versions. Due to an issue with the two background images being fixed on mobiles, these were replaced with different versions of the image for mobile devices only (please see [Bugs and Fixes Section](#bugs-and-fixes) for more detail). The lighthouse test was then done again and the outcome was much better.
 
 <details>
-<summary>Image</summary>
+<summary>Mobile Test - 2nd Attempt</summary>
 <img src="assets/images/readme/performance-mobile-2.jpg" width="500">
 </details>
 
@@ -757,17 +757,17 @@ The site performance dipped slightly for the mobile test. To get a better perfor
 
 This was a feature that a user picked up on when testing the site on a mobile.
 
-+ ***Issue/Feature*** - The navbar did not auto collapse once a section had been clicked.
+***Issue/Feature*** - The navbar did not auto collapse once a section had been clicked.
 
 <details>
-<summary>Image</summary>
+<summary>Code Before</summary>
 <img src="assets/images/readme/bugsfixes-navbar-issue.jpg" width="350">
 </details>
 
-+ ***Resolution*** - The html has been amended to accommodate this feature in both the index.html and thankyou.html. The solution was found using [stack overflow](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-navbar-on-click). Essentially the solution was to add an additional 'a' tag and add a 'span' for each nav-item, whereby only one of the 'a' tags would be displayed depending on the screen size.
+***Resolution*** - The html has been amended to accommodate this feature in both the index.html and thankyou.html. The solution was found using [stack overflow](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-navbar-on-click). Essentially the solution was to add an additional 'a' tag and add a 'span' for each nav-item, whereby only one of the 'a' tags would be displayed depending on the screen size.
 
 <details>
-<summary>Image</summary>
+<summary>Code After</summary>
 <img src="assets/images/readme/bugsfixes-navbar-resolution.jpg" width="350">
 </details>
 
@@ -775,19 +775,19 @@ This was a feature that a user picked up on when testing the site on a mobile.
 
 This was a slight issue that was picked up on during the rigurous testing stage on a mobile device.
 
-+ ***Issue/Feature*** - There was a slight lag when scrolling when approaching the gallery section of the site on a mobile device.
+***Issue/Feature*** - There was a slight lag when scrolling when approaching the gallery section of the site on a mobile device.
 
 <details>
-<summary>Images</summary>
+<summary>Code Before</summary>
 <img src="assets/images/readme/bugsfixes-lag-issue-1.jpg" width="1000">
 
 <img src="assets/images/readme/bugsfixes-lag-issue-2.jpg" width="1000">
 </details>
 
-+ ***Resolution*** - This issue seemed to come from the lazy attribute on both the iframes that are included in the site. These iframes resided in the gallery section as a video and the contact section as a google map. The mobile first approach is why the decision was made to fix this issue, ultimately removing the lazy attribute from both iframes in order to keep the scrolling and essentially the user experience at a high.
+***Resolution*** - This issue seemed to come from the lazy attribute on both the iframes that are included in the site. These iframes resided in the gallery section as a video and the contact section as a google map. The mobile first approach is why the decision was made to fix this issue, ultimately removing the lazy attribute from both iframes in order to keep the scrolling and essentially the user experience at a high.
 
 <details>
-<summary>Images</summary>
+<summary>Code After</summary>
 <img src="assets/images/readme/bugsfixes-lag-resolution-1.jpg" width="1000">
 
 <img src="assets/images/readme/bugsfixes-lag-resolution-2.jpg" width="1000">
@@ -797,20 +797,20 @@ This was a slight issue that was picked up on during the rigurous testing stage 
 
 This issue happened on a couple of tests, one on the google pixel and the other on the amazon fire tablet
 
-+ ***Issue/Feature*** - The two background images on both mobile and tablet test were strangely zooming in slightly when they were being scrolled over.
+***Issue/Feature*** - The two background images on both mobile and tablet test were strangely zooming in slightly when they were being scrolled over.
 
 <details>
-<summary>Images</summary>
+<summary>Code Before</summary>
 <img src="assets/images/readme/bugsfixes-background-attachment-issue-1.jpg" width="400">
 
 <img src="assets/images/readme/bugsfixes-background-attachment-issue-2.jpg" width="400">
 </details>
 
-+ ***Resolution*** - After some intense searching, this issue came down to the fact that ***background-attachment: fixed*** is not currently supported on all mobile browsers. Now even though it is supported on the latest chrome browser it is still understood to have a few glitches. From researching, it is usually not best practise to have fixed images on a mobile.
+***Resolution*** - After some intense searching, this issue came down to the fact that ***background-attachment: fixed*** is not currently supported on all mobile browsers. Now even though it is supported on the latest chrome browser it is still understood to have a few glitches. From researching, it is usually not best practise to have fixed images on a mobile.
 The issue was resolved by making both background images not fixed and by making a mobile version of the images in order to get the correct size to work. The media queries were also utilised in order to get the images working on the correct screen sizes. This has now resolved the issue.
 
 <details>
-<summary>Images</summary>
+<summary>Code After</summary>
 <img src="assets/images/readme/bugsfixes-background-attachment-resolution-1.jpg" width="400">
 
 <img src="assets/images/readme/bugsfixes-background-attachment-resolution-2.jpg" width="400">
@@ -820,20 +820,20 @@ The issue was resolved by making both background images not fixed and by making 
 
 This issue was noticed when a user tested the site on their iPhone 11.
 
-+ ***Issue/Feature*** - The two background images (hero and banner) were not present when viewing the site on an iPhone using the safari browser.
+***Issue/Feature*** - The two background images (hero and banner) were not present when viewing the site on an iPhone using the safari browser.
 
 <details>
-<summary>Images</summary>
+<summary>Code Before</summary>
 <img src="assets/images/readme/bugsfixes-background-attachment-issue-1.jpg" width="400">
 
 <img src="assets/images/readme/bugsfixes-background-attachment-issue-2.jpg" width="400">
 </details>
 
-+ ***Resolution*** - This issue is the same as the zooming in issue, it is to do with the ***background-attachment: fixed*** not currently supported on safari for mobiles.
+***Resolution*** - This issue is the same as the zooming in issue, it is to do with the **background-attachment: fixed** not currently supported on safari for mobiles.
 The issue was resolved with the previous background-images zooming in issue. If this was an issue by itself, the decision would still have been to fix it. IPhone's make up a huge amount of the market space in terms of mobiles sold and also when asking the user and other users who use iphone's they all mentioned that they use the default browser safari and did not download chrome.
 
 <details>
-<summary>Images</summary>
+<summary>Code After</summary>
 <img src="assets/images/readme/bugsfixes-background-attachment-resolution-1.jpg" width="400">
 
 <img src="assets/images/readme/bugsfixes-background-attachment-resolution-2.jpg" width="400">
