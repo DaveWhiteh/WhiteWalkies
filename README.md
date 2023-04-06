@@ -839,6 +839,14 @@ The issue was resolved with the previous background-images zooming in issue. If 
 <img src="assets/images/readme/bugsfixes-background-attachment-resolution-2.jpg" width="400">
 </details>
 
+#### **Thankyou page - footer**
+
+This issue was noticed when testing the different phone types and orientations within the chrome developer tools.
+
+***Issue/Feature*** - The footer on thankyou page overlaps text on the Nest Hub **only**.
+
+***Resolution*** - This issue has not been fixed. The thankyou page works well and is responsive on all other screen types. The potential to over complicate the media breakpoints to potentially break other working screens was deemed not necessary at this point in time.
+
 ---
 
 ## Deployment
